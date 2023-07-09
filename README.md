@@ -1,6 +1,6 @@
 👋Hi, I’m Mrunali Patil
 
-I'm Data Scientist and Machine Learning enthusiastic individual highly skilled in NLP, Machine Learning, Statistics and Programming. I'm loking for opportunities as a part of data related job roles for the organization needs.
+I'm Data Scientist and Machine Learning enthusiastic individual highly skilled in NLP, Machine Learning, Statistics and Programming. I'm looking for opportunities as a part of data related job roles for the organization needs.
 
 - 👀 I’m interested in: reading about new Data science articles, techniques and try to implement it and also interested in collaborating with people who have expertise in areas of Business Analytics, Software Engineering or Data Visualisation.
 - 
